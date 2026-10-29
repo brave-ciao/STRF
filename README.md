@@ -10,13 +10,9 @@ Thermal infrared (TIR) tracking remains challenging due to weak textures, backgr
 
 ## Download
 
-- **Trained models:** [Baidu Pan](通过网盘分享的文件：OSTrack_ep0020.pth.tar
-链接: https://pan.baidu.com/s/1t9qlKLA332DxVyLAvrb7nw 提取码: STRF 
---来自百度网盘超级会员v6的分享). Extraction code: `STRF`.
+- **Trained models:** [Baidu Pan](https://pan.baidu.com/s/1t9qlKLA332DxVyLAvrb7nw). Extraction code: `STRF`.
 
-- **Raw tracking results** on LSOTB-TIR100, LSOTB-TIR120, PTB-TIR, and LasHeR-TIR: [Baidu Pan](通过网盘分享的文件：STRF_raw_results.zip
-链接: https://pan.baidu.com/s/1cbnmGu1j2SRXZhwTXF6xVw?pwd=STRF 提取码: STRF 
---来自百度网盘超级会员v6的分享). Extraction code: `STRF`.
+- **Raw tracking results** on LSOTB-TIR100, LSOTB-TIR120, PTB-TIR, and LasHeR-TIR: [Baidu Pan](https://pan.baidu.com/s/1cbnmGu1j2SRXZhwTXF6xVw?pwd=STRF). Extraction code: `STRF`.
 
 ## Acknowledgements
 
